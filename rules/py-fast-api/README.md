@@ -43,3 +43,7 @@ An IDE plugin or script that reviews FastAPI code to suggest optimizations for r
 ## Overview of .cursorrules prompt
 
 The .cursorrules file outlines key principles and guidelines for developing scalable APIs using Python and FastAPI. It emphasizes writing concise and technical responses with accurate code examples, adhering to functional programming principles, and employing modular and iterative approaches to reduce code duplication. The file provides detailed instructions on Python/FastAPI usage, including the structure of files and functions, error handling, and dependency requirements. It highlights performance optimization tactics such as using asynchronous operations, caching, and lazy loading. Key conventions include the reliance on FastAPI's dependency injection system, focusing on API performance metrics, and limiting blocking operations. It encourages adherence to FastAPI's best practices for data models, path operations, and middleware.
+
+### Author
+
+Caio Barbieri
