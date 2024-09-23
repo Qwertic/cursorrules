@@ -10,6 +10,8 @@ Install [Cursor AI](https://cursor.sh/) to get started.
 
 You can copy any of the `.cursorrules` file to your project and edit it to fit your needs.
 
+Or you can use [crrl](https://github.com/qwertic/crrl) to simply adding one using the CLI tool.
+
 The initial templates are being taken from [this](https://www.cursordirectory.com/) repo.
 
 If you copy any of the templates, please make sure to give proper credit to the original author.
